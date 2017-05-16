@@ -1,0 +1,231 @@
+﻿<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope">
+  <s:Header xmlns:s="http://www.w3.org/2003/05/soap-envelope" />
+  <soap:Body>
+    <exch:Response xmlns:exch="http://applicant-eligibility.ee.ffe.cms.gov/exchange/1.0">
+   <ext:ApplicantEligibilityResponse xmlns:ext="http://applicant-eligibility.ee.ffe.cms.gov/extension/1.0">
+      <ext:InsuranceApplication>
+         <ext:InsuranceApplicant xmlns:s="http://niem.gov/niem/structures/2.0" s:id="InsuranceApplicant1">
+            <hix-core:RoleOfPersonReference xmlns:hix-core="http://hix.cms.gov/0.1/hix-core" s:ref="Person1" />
+            <hix-ee:InsuranceApplicantFinancialAssistanceIndicator xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">true</hix-ee:InsuranceApplicantFinancialAssistanceIndicator>
+            <ext:ExchangeAssignedInsuranceApplicantIdentification>
+               <niem-core:IdentificationID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">818598830761365426</niem-core:IdentificationID>
+               <niem-core:IdentificationSourceText xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" />
+            </ext:ExchangeAssignedInsuranceApplicantIdentification>
+            <ext:ProgramEligibilitySnapshot>
+               <niem-core:ActivityDate xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+                  <niem-core:Date>2016-12-21</niem-core:Date>
+               </niem-core:ActivityDate>
+               <ext:ExchangeEligibility>
+                  <hix-ee:EligibilityDateRange xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">
+                     <niem-core:StartDate xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+                        <niem-core:Date>2017-02-01</niem-core:Date>
+                     </niem-core:StartDate>
+                  </hix-ee:EligibilityDateRange>
+                  <hix-ee:EligibilityIndicator xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">true</hix-ee:EligibilityIndicator>
+                  <ext:ProgramEligibilityStatusCode>Gain</ext:ProgramEligibilityStatusCode>
+               </ext:ExchangeEligibility>
+               <ext:CSREligibility>
+                  <hix-ee:EligibilityDateRange xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">
+                     <niem-core:StartDate xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+                        <niem-core:Date>2017-02-01</niem-core:Date>
+                     </niem-core:StartDate>
+                  </hix-ee:EligibilityDateRange>
+                  <hix-ee:EligibilityIndicator xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">true</hix-ee:EligibilityIndicator>
+                  <ext:ProgramEligibilityStatusCode>Gain</ext:ProgramEligibilityStatusCode>
+                  <hix-pm:InsurancePlanVariantCategoyNumericCode xmlns:hix-pm="http://hix.cms.gov/0.1/hix-pm">04</hix-pm:InsurancePlanVariantCategoyNumericCode>
+               </ext:CSREligibility>
+               <ext:CHIPEligibility>
+                  <hix-ee:EligibilityIndicator xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">false</hix-ee:EligibilityIndicator>
+               </ext:CHIPEligibility>
+               <ext:APTCEligibility>
+                  <hix-ee:EligibilityDateRange xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">
+                     <niem-core:StartDate xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+                        <niem-core:Date>2017-02-01</niem-core:Date>
+                     </niem-core:StartDate>
+                  </hix-ee:EligibilityDateRange>
+                  <hix-ee:EligibilityIndicator xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">true</hix-ee:EligibilityIndicator>
+                  <ext:ProgramEligibilityStatusCode>Gain</ext:ProgramEligibilityStatusCode>
+                  <ext:MonthlyAPTCAmount>535.00</ext:MonthlyAPTCAmount>
+               </ext:APTCEligibility>
+               <ext:MedicaidEligibility>
+                  <hix-ee:EligibilityIndicator xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">false</hix-ee:EligibilityIndicator>
+                  <ext:ProgramEligibilityStatusCode>NoChange</ext:ProgramEligibilityStatusCode>
+               </ext:MedicaidEligibility>
+            </ext:ProgramEligibilitySnapshot>
+            <ext:InitialEnrollmentPeriodEligibility>
+               <hix-ee:EligibilityDateRange xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">
+                  <niem-core:StartDate xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+                     <niem-core:Date>2017-02-01</niem-core:Date>
+                  </niem-core:StartDate>
+                  <niem-core:EndDate xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+                     <niem-core:Date>2017-12-31</niem-core:Date>
+                  </niem-core:EndDate>
+               </hix-ee:EligibilityDateRange>
+               <hix-ee:EligibilityIndicator xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">true</hix-ee:EligibilityIndicator>
+               <ext:EarliestQHPEffectiveDate>
+                  <niem-core:Date xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">2017-02-01</niem-core:Date>
+               </ext:EarliestQHPEffectiveDate>
+               <ext:LatestQHPEffectiveDate>
+                  <niem-core:Date xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">2017-03-01</niem-core:Date>
+               </ext:LatestQHPEffectiveDate>
+            </ext:InitialEnrollmentPeriodEligibility>
+            <ext:SpecialEnrollmentPeriodEligibility>
+               <hix-ee:EligibilityIndicator xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">false</hix-ee:EligibilityIndicator>
+            </ext:SpecialEnrollmentPeriodEligibility>
+         </ext:InsuranceApplicant>
+         <hix-ee:InsuranceApplicationPrimaryContactReference xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee" xmlns:s="http://niem.gov/niem/structures/2.0" s:ref="primaryContact" />
+         <ext:PrimaryTaxFilerPersonReference xmlns:s="http://niem.gov/niem/structures/2.0" s:ref="Person1" />
+         <ext:JointTaxFilerPersonReference xmlns:s="http://niem.gov/niem/structures/2.0" s:ref="Person2" />
+         <ext:InsuranceApplicationMultipleTaxHouseholdIndicator>false</ext:InsuranceApplicationMultipleTaxHouseholdIndicator>
+      </ext:InsuranceApplication>
+      <ext:ContactInformation xmlns:s="http://niem.gov/niem/structures/2.0" s:id="ContactInformation1">
+         <niem-core:ContactEmailID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">alt.ji-2oo3q2ek@yopmail.com</niem-core:ContactEmailID>
+         <hix-core:ContactMainTelephoneNumber xmlns:hix-core="http://hix.cms.gov/0.1/hix-core" />
+      </ext:ContactInformation>
+      <ext:ContactInformation xmlns:s="http://niem.gov/niem/structures/2.0" s:id="ContactInformation2">
+         <hix-core:ContactMainTelephoneNumber xmlns:hix-core="http://hix.cms.gov/0.1/hix-core" />
+         <niem-core:ContactMobileTelephoneNumber xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+            <niem-core:FullTelephoneNumber>
+               <niem-core:TelephoneNumberFullID>601-856-3063</niem-core:TelephoneNumberFullID>
+            </niem-core:FullTelephoneNumber>
+         </niem-core:ContactMobileTelephoneNumber>
+      </ext:ContactInformation>
+      <ext:ContactInformation xmlns:s="http://niem.gov/niem/structures/2.0" s:id="ContactInformation3">
+         <niem-core:ContactMailingAddress xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+            <niem-core:StructuredAddress>
+               <niem-core:LocationStreet>
+                  <niem-core:StreetFullText>3466 DRUSILLA LN</niem-core:StreetFullText>
+               </niem-core:LocationStreet>
+               <niem-core:AddressSecondaryUnitText># A</niem-core:AddressSecondaryUnitText>
+               <niem-core:LocationCityName>BATON ROUGE</niem-core:LocationCityName>
+               <niem-core:LocationCountyName>EAST BATON ROUGE</niem-core:LocationCountyName>
+               <niem-core:LocationCountyCode>033</niem-core:LocationCountyCode>
+               <niem-core:LocationStateUSPostalServiceCode>LA</niem-core:LocationStateUSPostalServiceCode>
+               <niem-core:LocationPostalCode>70809-1866</niem-core:LocationPostalCode>
+            </niem-core:StructuredAddress>
+         </niem-core:ContactMailingAddress>
+         <hix-core:ContactMainTelephoneNumber xmlns:hix-core="http://hix.cms.gov/0.1/hix-core" />
+      </ext:ContactInformation>
+      <ext:ContactInformation xmlns:s="http://niem.gov/niem/structures/2.0" s:id="ContactInformation4">
+         <niem-core:ContactMailingAddress xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+            <niem-core:StructuredAddress>
+               <niem-core:LocationStreet>
+                  <niem-core:StreetFullText>3455 DRUSILLA LN</niem-core:StreetFullText>
+               </niem-core:LocationStreet>
+               <niem-core:AddressSecondaryUnitText># B</niem-core:AddressSecondaryUnitText>
+               <niem-core:LocationCityName>BATON ROUGE</niem-core:LocationCityName>
+               <niem-core:LocationCountyName>EAST BATON ROUGE</niem-core:LocationCountyName>
+               <niem-core:LocationCountyCode>033</niem-core:LocationCountyCode>
+               <niem-core:LocationStateUSPostalServiceCode>LA</niem-core:LocationStateUSPostalServiceCode>
+               <niem-core:LocationPostalCode>70809-1867</niem-core:LocationPostalCode>
+            </niem-core:StructuredAddress>
+         </niem-core:ContactMailingAddress>
+         <hix-core:ContactMainTelephoneNumber xmlns:hix-core="http://hix.cms.gov/0.1/hix-core" />
+      </ext:ContactInformation>
+      <ext:Person xmlns:s="http://niem.gov/niem/structures/2.0" s:id="Person1">
+         <niem-core:PersonBirthDate xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+            <niem-core:Date>1961-06-19</niem-core:Date>
+         </niem-core:PersonBirthDate>
+         <niem-core:PersonName xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+            <niem-core:PersonGivenName>Thin</niem-core:PersonGivenName>
+            <niem-core:PersonSurName>Allenakk</niem-core:PersonSurName>
+         </niem-core:PersonName>
+         <niem-core:PersonSexCode xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">M</niem-core:PersonSexCode>
+         <niem-core:PersonSSNIdentification xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+            <niem-core:IdentificationID />
+            <niem-core:IdentificationSourceText />
+         </niem-core:PersonSSNIdentification>
+         <hix-core:PersonAugmentation xmlns:hix-core="http://hix.cms.gov/0.1/hix-core">
+            <hix-core:PersonAssociation>
+               <niem-core:PersonReference xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" s:ref="Person1" />
+               <hix-core:FamilyRelationshipCode>18</hix-core:FamilyRelationshipCode>
+            </hix-core:PersonAssociation>
+            <hix-core:PersonAssociation>
+               <niem-core:PersonReference xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" s:ref="Person2" />
+               <hix-core:FamilyRelationshipCode>01</hix-core:FamilyRelationshipCode>
+            </hix-core:PersonAssociation>
+            <hix-core:PersonContactInformationAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ext:PersonContactInformationAssociationType">
+               <niem-core:ContactInformationReference xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" s:ref="ContactInformation1" />
+               <hix-core:ContactInformationCategoryCode>Self</hix-core:ContactInformationCategoryCode>
+            </hix-core:PersonContactInformationAssociation>
+            <hix-core:PersonContactInformationAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ext:PersonContactInformationAssociationType">
+               <niem-core:ContactInformationReference xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" s:ref="ContactInformation2" />
+               <hix-core:ContactInformationCategoryCode>Self</hix-core:ContactInformationCategoryCode>
+            </hix-core:PersonContactInformationAssociation>
+            <hix-core:PersonContactInformationAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ext:PersonContactInformationAssociationType">
+               <niem-core:ContactInformationReference xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" s:ref="ContactInformation3" />
+               <hix-core:ContactInformationCategoryCode>Self</hix-core:ContactInformationCategoryCode>
+               <ext:AddressTypeCode>Mailing</ext:AddressTypeCode>
+            </hix-core:PersonContactInformationAssociation>
+            <hix-core:PersonContactInformationAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ext:PersonContactInformationAssociationType">
+               <niem-core:ContactInformationReference xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" s:ref="ContactInformation3" />
+               <niem-core:ContactInformationIsHomeIndicator xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">true</niem-core:ContactInformationIsHomeIndicator>
+               <hix-core:ContactInformationCategoryCode>Self</hix-core:ContactInformationCategoryCode>
+               <ext:AddressTypeCode>Home</ext:AddressTypeCode>
+            </hix-core:PersonContactInformationAssociation>
+            <hix-core:PersonPreferredLanguage>
+               <niem-core:LanguageName xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">English</niem-core:LanguageName>
+               <niem-core:PersonSpeaksLanguageIndicator xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">true</niem-core:PersonSpeaksLanguageIndicator>
+               <niem-core:PersonWritesLanguageIndicator xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">false</niem-core:PersonWritesLanguageIndicator>
+            </hix-core:PersonPreferredLanguage>
+            <hix-core:PersonPreferredLanguage>
+               <niem-core:LanguageName xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">English</niem-core:LanguageName>
+               <niem-core:PersonSpeaksLanguageIndicator xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">false</niem-core:PersonSpeaksLanguageIndicator>
+               <niem-core:PersonWritesLanguageIndicator xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">true</niem-core:PersonWritesLanguageIndicator>
+            </hix-core:PersonPreferredLanguage>
+         </hix-core:PersonAugmentation>
+         <ext:PersonMarriedIndicator>true</ext:PersonMarriedIndicator>
+      </ext:Person>
+      <ext:Person xmlns:s="http://niem.gov/niem/structures/2.0" s:id="Person2">
+         <niem-core:PersonBirthDate xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+            <niem-core:Date>2016-12-13</niem-core:Date>
+         </niem-core:PersonBirthDate>
+         <niem-core:PersonName xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+            <niem-core:PersonGivenName>Ally</niem-core:PersonGivenName>
+            <niem-core:PersonMiddleName>Renn</niem-core:PersonMiddleName>
+            <niem-core:PersonSurName>khan</niem-core:PersonSurName>
+            <niem-core:PersonNameSuffixText>Jr</niem-core:PersonNameSuffixText>
+         </niem-core:PersonName>
+         <niem-core:PersonSexCode xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">F</niem-core:PersonSexCode>
+         <niem-core:PersonSSNIdentification xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+            <niem-core:IdentificationID />
+            <niem-core:IdentificationSourceText />
+         </niem-core:PersonSSNIdentification>
+         <hix-core:PersonAugmentation xmlns:hix-core="http://hix.cms.gov/0.1/hix-core">
+            <hix-core:PersonAssociation>
+               <niem-core:PersonReference xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" s:ref="Person1" />
+               <hix-core:FamilyRelationshipCode>01</hix-core:FamilyRelationshipCode>
+            </hix-core:PersonAssociation>
+            <hix-core:PersonContactInformationAssociation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ext:PersonContactInformationAssociationType">
+               <niem-core:ContactInformationReference xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" s:ref="ContactInformation4" />
+               <niem-core:ContactInformationIsHomeIndicator xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">true</niem-core:ContactInformationIsHomeIndicator>
+               <hix-core:ContactInformationCategoryCode>Self</hix-core:ContactInformationCategoryCode>
+               <ext:AddressTypeCode>Home</ext:AddressTypeCode>
+            </hix-core:PersonContactInformationAssociation>
+            <hix-core:PersonPreferredLanguage />
+            <hix-core:PersonPreferredLanguage />
+         </hix-core:PersonAugmentation>
+         <ext:PersonMarriedIndicator>true</ext:PersonMarriedIndicator>
+      </ext:Person>
+      <ext:PartnerWebSiteInformationExchangeSystem>
+         <hix-core:InformationExchangeSystemStateCode xmlns:hix-core="http://hix.cms.gov/0.1/hix-core">LA</hix-core:InformationExchangeSystemStateCode>
+         <hix-core:InformationExchangeSystemIdentification xmlns:hix-core="http://hix.cms.gov/0.1/hix-core">
+            <niem-core:IdentificationID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">04.KGL.LA*.225.950</niem-core:IdentificationID>
+            <niem-core:IdentificationSourceText xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" />
+         </hix-core:InformationExchangeSystemIdentification>
+      </ext:PartnerWebSiteInformationExchangeSystem>
+      <ext:SSFPrimaryContact xmlns:s="http://niem.gov/niem/structures/2.0" s:id="primaryContact">
+         <hix-core:RoleOfPersonReference xmlns:hix-core="http://hix.cms.gov/0.1/hix-core" s:ref="Person1" />
+         <hix-ee:SSFPrimaryContactElectronicNoticeIndicator xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">true</hix-ee:SSFPrimaryContactElectronicNoticeIndicator>
+         <hix-ee:SSFPrimaryContactElectronicNoticePreferenceCode xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">Email</hix-ee:SSFPrimaryContactElectronicNoticePreferenceCode>
+         <niem-core:ContactMobileTelephoneNumber xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+            <niem-core:FullTelephoneNumber>
+               <niem-core:TelephoneNumberFullID>601-856-3063</niem-core:TelephoneNumberFullID>
+            </niem-core:FullTelephoneNumber>
+         </niem-core:ContactMobileTelephoneNumber>
+         <niem-core:ContactEmailID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">alt.ji-2oo3q2ek@yopmail.com</niem-core:ContactEmailID>
+      </ext:SSFPrimaryContact>
+   </ext:ApplicantEligibilityResponse>
+</exch:Response>
+  </soap:Body>
+</soap:Envelope>

@@ -1,0 +1,6 @@
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Tuples\bin\Debug\Tuples.exe.config
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Tuples\bin\Debug\Tuples.exe
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Tuples\bin\Debug\Tuples.pdb
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Tuples\obj\Debug\Tuples.exe
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Tuples\obj\Debug\Tuples.pdb
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Tuples\obj\Debug\Tuples.csprojResolveAssemblyReference.cache

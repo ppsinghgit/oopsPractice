@@ -1,0 +1,108 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope">
+  <s:Header xmlns:s="http://www.w3.org/2003/05/soap-envelope" />
+  <soap:Body>
+    <exch:Response xmlns:exch="http://applicant-enrollment.ee.ffe.cms.gov/exchange/1.0">
+   <ext:ApplicantEnrollmentResponse xmlns:ext="http://applicant-enrollment.ee.ffe.cms.gov/extension/1.0">
+      <ext:PartnerWebSiteInformationExchangeSystem>
+         <hix-core:InformationExchangeSystemStateCode xmlns:hix-core="http://hix.cms.gov/0.1/hix-core">LA</hix-core:InformationExchangeSystemStateCode>
+         <hix-core:InformationExchangeSystemIdentification xmlns:hix-core="http://hix.cms.gov/0.1/hix-core">
+            <niem-core:IdentificationID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">04.KGL.LA*.225.950</niem-core:IdentificationID>
+            <niem-core:IdentificationSourceText xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" />
+         </hix-core:InformationExchangeSystemIdentification>
+      </ext:PartnerWebSiteInformationExchangeSystem>
+      <ext:ExchangeInformationExchangeSystem>
+         <hix-core:InformationExchangeSystemStateCode xmlns:hix-core="http://hix.cms.gov/0.1/hix-core">LA</hix-core:InformationExchangeSystemStateCode>
+         <hix-core:InformationExchangeSystemIdentification xmlns:hix-core="http://hix.cms.gov/0.1/hix-core">
+            <niem-core:IdentificationID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">04.KGL.LA*.225.950</niem-core:IdentificationID>
+            <niem-core:IdentificationSourceText xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" />
+         </hix-core:InformationExchangeSystemIdentification>
+      </ext:ExchangeInformationExchangeSystem>
+      <ext:Person xmlns:s="http://niem.gov/niem/structures/2.0" s:id="Person1">
+         <niem-core:PersonBirthDate xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+            <niem-core:Date>1961-06-19</niem-core:Date>
+         </niem-core:PersonBirthDate>
+         <niem-core:PersonSexCode xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">M</niem-core:PersonSexCode>
+         <niem-core:PersonSSNIdentification xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">
+            <niem-core:IdentificationID />
+            <niem-core:IdentificationSourceText />
+         </niem-core:PersonSSNIdentification>
+      </ext:Person>
+      <ext:SSFPrimaryContact>
+         <hix-core:RoleOfPersonReference xmlns:hix-core="http://hix.cms.gov/0.1/hix-core" xmlns:s="http://niem.gov/niem/structures/2.0" s:ref="Person1" />
+         <ext:SSFPrimaryContactExchangeAssignedIdentification>
+            <niem-core:IdentificationID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">137806148</niem-core:IdentificationID>
+            <niem-core:IdentificationSourceText xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" />
+         </ext:SSFPrimaryContactExchangeAssignedIdentification>
+         <ext:SSFPrimaryContactPartnerAssignedIdentification>
+            <niem-core:IdentificationID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">10063</niem-core:IdentificationID>
+            <niem-core:IdentificationSourceText xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" />
+         </ext:SSFPrimaryContactPartnerAssignedIdentification>
+         <ext:AttestationMetadata>
+            <ext:APTCAttestationProvidedIndicator>true</ext:APTCAttestationProvidedIndicator>
+         </ext:AttestationMetadata>
+      </ext:SSFPrimaryContact>
+      <ext:PolicyCreationActivity xmlns:s="http://niem.gov/niem/structures/2.0" s:metadata="Activity1">
+         <ext:ActionEffectiveDate>
+            <niem-core:Date xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">2017-01-24</niem-core:Date>
+         </ext:ActionEffectiveDate>
+         <ext:AffectedInsurancePremium>
+            <hix-ee:InsurancePremiumAmount xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">600.24</hix-ee:InsurancePremiumAmount>
+            <ext:InsurancePremiumElectedAPTCAmount>429</ext:InsurancePremiumElectedAPTCAmount>
+            <ext:RateArea>
+               <hix-pm:RateAreaIdentification xmlns:hix-pm="http://hix.cms.gov/0.1/hix-pm">
+                  <niem-core:IdentificationID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">LA005</niem-core:IdentificationID>
+               </hix-pm:RateAreaIdentification>
+            </ext:RateArea>
+            <hix-pm:InsurancePlanVariantCategoryNumericCode xmlns:hix-pm="http://hix.cms.gov/0.1/hix-pm">01</hix-pm:InsurancePlanVariantCategoryNumericCode>
+            <ext:InsurancePremiumIndividualResponsibilityTotalAmount>171.24</ext:InsurancePremiumIndividualResponsibilityTotalAmount>
+         </ext:AffectedInsurancePremium>
+         <ext:EnrollmentGroup>
+            <ext:InsuranceApplicant s:id="InsuranceApplicant1">
+               <hix-core:RoleOfPersonReference xmlns:hix-core="http://hix.cms.gov/0.1/hix-core" s:ref="Person1" />
+               <ext:ExchangeAssignedInsuranceApplicantIdentification>
+                  <niem-core:IdentificationID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">818810571575315549</niem-core:IdentificationID>
+                  <niem-core:IdentificationSourceText xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" />
+               </ext:ExchangeAssignedInsuranceApplicantIdentification>
+               <ext:TobaccoUseIndicator>false</ext:TobaccoUseIndicator>
+               <ext:ProposedSubscriberIndicator>true</ext:ProposedSubscriberIndicator>
+               <ext:EnrollmentPeriodCode>Initial</ext:EnrollmentPeriodCode>
+               <ext:RelationshipToSubscriberCode>18</ext:RelationshipToSubscriberCode>
+            </ext:InsuranceApplicant>
+            <ext:SelectedInsurancePlan>
+               <hix-pm:InsurancePlanStandardComponentIdentification xmlns:hix-pm="http://hix.cms.gov/0.1/hix-pm">
+                  <niem-core:IdentificationID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">19636LA0230006</niem-core:IdentificationID>
+                  <niem-core:IdentificationSourceText xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" />
+               </hix-pm:InsurancePlanStandardComponentIdentification>
+               <hix-pm:InsurancePlanVariant xmlns:hix-pm="http://hix.cms.gov/0.1/hix-pm">
+                  <hix-pm:InsurancePlanVariantIdentification>
+                     <niem-core:IdentificationID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">01</niem-core:IdentificationID>
+                     <niem-core:IdentificationSourceText xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" />
+                  </hix-pm:InsurancePlanVariantIdentification>
+               </hix-pm:InsurancePlanVariant>
+               <hix-pm:Issuer xmlns:hix-pm="http://hix.cms.gov/0.1/hix-pm">
+                  <hix-pm:IssuerIdentification>
+                     <niem-core:IdentificationID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">19636</niem-core:IdentificationID>
+                     <niem-core:IdentificationSourceText xmlns:niem-core="http://niem.gov/niem/niem-core/2.0" />
+                  </hix-pm:IssuerIdentification>
+               </hix-pm:Issuer>
+            </ext:SelectedInsurancePlan>
+            <hix-ee:InsurancePolicyEffectiveDate xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">
+               <niem-core:Date xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">2017-01-24</niem-core:Date>
+            </hix-ee:InsurancePolicyEffectiveDate>
+         </ext:EnrollmentGroup>
+      </ext:PolicyCreationActivity>
+      <ext:PolicyActivityMetadata xmlns:s="http://niem.gov/niem/structures/2.0" s:id="Activity1">
+         <ext:CorrectedInsurancePremium>
+            <hix-ee:InsurancePremiumAmount xmlns:hix-ee="http://hix.cms.gov/0.1/hix-ee">566.24</hix-ee:InsurancePremiumAmount>
+			<ext:RateArea>
+               <hix-pm:RateAreaIdentification xmlns:hix-pm="http://hix.cms.gov/0.1/hix-pm">
+                  <niem-core:IdentificationID xmlns:niem-core="http://niem.gov/niem/niem-core/2.0">LA005</niem-core:IdentificationID>
+               </hix-pm:RateAreaIdentification>
+            </ext:RateArea>
+         </ext:CorrectedInsurancePremium>
+         <ext:PolicyActivityResponseCode>IncorrectPremiumAmount</ext:PolicyActivityResponseCode>
+      </ext:PolicyActivityMetadata>
+   </ext:ApplicantEnrollmentResponse>
+</exch:Response>
+  </soap:Body>
+</soap:Envelope>

@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="../Scripts/angular.min.js"></script>
+    <script src="../Scripts/angular-route.js"></script>
+    <script src="../AngularResource/app.js"></script>
+    <script src="../AngularResource/Controller/ParentController.js"></script>
+</head>
+<body ng-app="MyApp">
+    <div ng-controller="ParentController" ng-init="LoginVM={}">
+        <span ng-bind="Login.Username"></span>
+        <table>
+            <tr>
+                <td>Username:</td>
+                <td><input type="text" ng-model="LoginVM.Username" /></td>
+            </tr>
+            <tr>
+                <td>Password:</td>
+                <td><input type="password" ng-model="LoginVM.Password" /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Login" ng-click="Login()" /></td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+</html>

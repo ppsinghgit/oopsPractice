@@ -1,0 +1,6 @@
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Xml_Deserialization\bin\Debug\Xml_Deserialization.exe.config
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Xml_Deserialization\bin\Debug\Xml_Deserialization.exe
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Xml_Deserialization\bin\Debug\Xml_Deserialization.pdb
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Xml_Deserialization\obj\Debug\Xml_Deserialization.exe
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Xml_Deserialization\obj\Debug\Xml_Deserialization.pdb
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Xml_Deserialization\obj\Debug\Xml_Deserialization.csprojResolveAssemblyReference.cache

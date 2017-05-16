@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope">
+  <s:Header xmlns:s="http://www.w3.org/2003/05/soap-envelope">
+	<s:ok>Fine</s:ok>
+  </s:Header>
+  <soap:Body>
+    <exch:Response xmlns:exch="http://applicant-eligibility.ee.ffe.cms.gov/exchange/1.0" ContactID="5000">     
+	  <ext:ApplicantEligibilityResponse xmlns:ext="http://applicant-eligibility.ee.ffe.cms.gov/extension/1.0">
+		<ext:Name>Cameron</ext:Name>
+	  </ext:ApplicantEligibilityResponse>
+    </exch:Response>
+  </soap:Body>
+</soap:Envelope>

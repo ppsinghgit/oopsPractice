@@ -1,0 +1,10 @@
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\bin\Debug\SodaApiTest.exe.config
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\bin\Debug\SodaApiTest.exe
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\bin\Debug\SodaApiTest.pdb
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\bin\Debug\RestSharp.dll
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\bin\Debug\RestSharp.xml
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\obj\Debug\SodaApiTest.csprojResolveAssemblyReference.cache
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\obj\Debug\SodaApiTest.exe
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\obj\Debug\SodaApiTest.pdb
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\bin\Debug\Newtonsoft.Json.xml

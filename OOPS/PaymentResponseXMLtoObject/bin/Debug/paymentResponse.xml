@@ -1,0 +1,133 @@
+<samlp2:Response Destination="http://localhost:56473/ApplicationForm/FFmRedirect" ID="ResponseId_b03f00d08be0bb3a654e4111e74ec253" IssueInstant="2017-03-02T12:01:13.851Z" Version="2.0" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion" xmlns:samlp2="urn:oasis:names:tc:SAML:2.0:protocol">
+  <saml2:Issuer Format="urn:oasis:names:tc:SAML:2.0:nameid-format:entity">https://app1a.imp.healthcare.gov</saml2:Issuer>
+  <ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+    <ds:SignedInfo>
+      <ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+      <ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <ds:Reference URI="#ResponseId_b03f00d08be0bb3a654e4111e74ec253">
+        <ds:Transforms>
+          <ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+          <ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+        </ds:Transforms>
+        <ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <ds:DigestValue>NnaHnO8V+fc3AkrnCiT/+w5lhmA=</ds:DigestValue>
+      </ds:Reference>
+    </ds:SignedInfo>
+    <ds:SignatureValue>0dWTqL14OoD2Wm6tqGlYSQjRvfN6V61bIIjDDuG2/gNFY47loP0euSCuKqdLAjQxqam1ME1NYLXqjVy86ePU3I40cZBGY+w9gw6UE0+jLn88DZdJ4eotq812B4EWkTrj8wTJisO1uhTQ5zciqTjGHXAhWMF0MCb+QcfL3iP9IZznysgNzym2b1Rc8ZiKIHRr19P67hKWi5Gsc85PnWSzQNFRnEOuCOtAceNcPFxZRX30mmEYKdPt0sSaM9ytelbTA+uhVfOBA0MgH+Kkf/iLFHF+RhLGeNpl9UltuuD78aQLcdQj1eEIst+sXH3nZ1cwPTZiURh0c/9CpHOCZxIkJA==</ds:SignatureValue>
+    <ds:KeyInfo>
+      <ds:X509Data>
+        <ds:X509Certificate>MIIFwTCCBKmgAwIBAgIEUUnfUzANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNISFMxIjAgBgNVBAsTGUNlcnRpZmljYXRpb24gQXV0aG9yaXRpZXMxJDAiBgNVBAMTG0hIUy1GUEtJLUludGVybWVkaWF0ZS1DQS1FMTAeFw0xNjA2MjAxNDMyMzhaFw0xOTA1MDkxNDAyMzFaMHgxCzAJBgNVBAYTAlVTMRgwFgYDVQQKEw9VLlMuIEdvdmVybm1lbnQxDDAKBgNVBAsTA0hIUzEMMAoGA1UECxMDQ01TMRAwDgYDVQQLEwdEZXZpY2VzMSEwHwYDVQQDExhhcHAxYS5pbXAuaGVhbHRoY2FyZS5nb3YwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDiOESXvDC3Nu1T20HUvKakEMlP5pMrpUzwTKlIu5QleRuxu9AFsAJjfz/prj7XcjELqI2fBlxLb4ExjhTMom+ZBHD1CkgbEthbAT3AfXv6NHw23W1mwAAHbfNF3c4Uk0bhXdlqq4Ff2gS0eG2405f6dvsFopWSpWUFHxtwSZli0qpcJDYZJ6yEjrcAZShO8WQ4IeOZayYwPOnuac85XZKAg5JpxJYNnGG4Bd1DQLXbs3O5pv0wIulw1VSAovgYxnUkG5nJ5sTBk0W+j0wh/UJ92IwRSUB8wF7XRenQDx4C97A0+RK274pSF84Jb1MrDuyaQWWiH4AqCIt9IhYyibHlAgMBAAGjggJKMIICRjAOBgNVHQ8BAf8EBAMCBaAwFwYDVR0gBBAwDjAMBgpghkgBZQMCAQMIMIHLBggrBgEFBQcBAQSBvjCBuzBSBggrBgEFBQcwAoZGaHR0cDovL2hoc3BraWNybC5tYW5hZ2VkLmVudHJ1c3QuY29tL0FJQS9DZXJ0c0lzc3VlZFRvSEhTRW50cnVzdENBLnA3YzAgBggrBgEFBQcwAYYUaHR0cDovL29jc3AuZGhocy5nb3YwQwYIKwYBBQUHMAGGN2h0dHA6Ly9oaHNwa2lvY3NwLm1hbmFnZWQuZW50cnVzdC5jb20vT0NTUC9ISFNFbnRydXN0Q0EwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMIHtBgNVHR8EgeUwgeIwQKA+oDyGOmh0dHA6Ly9oaHNwa2ljcmwubWFuYWdlZC5lbnRydXN0LmNvbS9DUkxzL0hIU0VudHJ1c3RDQS5jcmwwgZ2ggZqggZekgZQwgZExCzAJBgNVBAYTAlVTMRgwFgYDVQQKEw9VLlMuIEdvdmVybm1lbnQxDDAKBgNVBAsTA0hIUzEiMCAGA1UECxMZQ2VydGlmaWNhdGlvbiBBdXRob3JpdGllczEkMCIGA1UEAxMbSEhTLUZQS0ktSW50ZXJtZWRpYXRlLUNBLUUxMRAwDgYDVQQDEwdDUkwxNTkyMB8GA1UdIwQYMBaAFE3VqiaeDki+5UYs+OEAdAj69kNEMB0GA1UdDgQWBBRQDIY/6moYDgNLVrDCcco2bUDTnjANBgkqhkiG9w0BAQsFAAOCAQEAX276THBNRlxEv6pK0XUZgJop3eWj9peRGUG1ATPkhqfTZ22vSMBtCTXcprGWsBBlHTVHsVdgqvV5gl8DPkM8kto3sGabvh1nVi4pZR1fzXJGwu6NmT8dis4LBj0rX7J18/Qooh7jQIpmhLCNmJKGr+dNx0NWrtpI/oYUHS5Eqdlu6RjYPrOZQS7Dz4+EcXdD/7Z54DSzt47vRud8dfIKM0sKkqd+jOkci0hIL7tbgzct5mcrUUmWP6hfQcMdbPyxfJQ7Al6rdcCx8YPLq4PWTcHbfH2C8Ro8VeUnetKweqjhtfNHu1jfPe5axo6/XuNAD4wEZTnwImZ6nV9wGkW/Qg==</ds:X509Certificate>
+      </ds:X509Data>
+    </ds:KeyInfo>
+  </ds:Signature>
+  <samlp2:Status>
+    <samlp2:StatusCode Value="urn:oasis:names:tc:SAML:2.0:status:Success" />
+    <samlp2:StatusMessage>Success</samlp2:StatusMessage>
+  </samlp2:Status>
+  <saml2:Assertion ID="SamlAssertion-af6be46cb7b1242ee7802326036ed31b" IssueInstant="2017-03-02T12:01:13.843Z" Version="2.0" xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion">
+    <saml2:Issuer Format="urn:oasis:names:tc:SAML:2.0:nameid-format:entity">https://app1a.imp.healthcare.gov</saml2:Issuer>
+    <ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+      <ds:SignedInfo>
+        <ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+        <ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+        <ds:Reference URI="#SamlAssertion-af6be46cb7b1242ee7802326036ed31b">
+          <ds:Transforms>
+            <ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+            <ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+          </ds:Transforms>
+          <ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+          <ds:DigestValue>jz+FosOswD3BB8ZYUnrRu9WL6PY=</ds:DigestValue>
+        </ds:Reference>
+      </ds:SignedInfo>
+      <ds:SignatureValue>EeSlGB6308i03bxsoBJt6rFXjb0t2eUExH4aAnA9BAYYyZjooBOU6ZDyZArDgqG6QLTPb2u9Qf460PRCr1LKKFInIsx+74IiXxACN2JRI2nRfD0lHtpX5/yPQsTXT3tdUE1ZzVVFEKFVvPxzHIwyTk04dPA9n9eiRbRAwLHmhBPSxT3yGG8H/PpnU94hM42ovRewv/icE/OlGyxu+90SqS0NJY2UXzWjbdTLN1hb/Gaui7HTxh/XLMRJaxtSbf+9U0dYSG5tTU2EJC2rkMAVXWN8f6mqYLN32Do1lGFhv0TsIuHolpxZameQcBwmYjniQHTy0pcVkqtmtAQ39NFaDg==</ds:SignatureValue>
+      <KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <X509Data>
+          <X509SubjectName>CN=app1a.imp.healthcare.gov,OU=Devices,OU=CMS,OU=HHS,O=U.S. Government,C=US</X509SubjectName>
+          <X509Certificate>MIIFwTCCBKmgAwIBAgIEUUnfUzANBgkqhkiG9w0BAQsFADB/MQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNISFMxIjAgBgNVBAsTGUNlcnRpZmljYXRpb24gQXV0aG9yaXRpZXMxJDAiBgNVBAMTG0hIUy1GUEtJLUludGVybWVkaWF0ZS1DQS1FMTAeFw0xNjA2MjAxNDMyMzhaFw0xOTA1MDkxNDAyMzFaMHgxCzAJBgNVBAYTAlVTMRgwFgYDVQQKEw9VLlMuIEdvdmVybm1lbnQxDDAKBgNVBAsTA0hIUzEMMAoGA1UECxMDQ01TMRAwDgYDVQQLEwdEZXZpY2VzMSEwHwYDVQQDExhhcHAxYS5pbXAuaGVhbHRoY2FyZS5nb3YwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDiOESXvDC3Nu1T20HUvKakEMlP5pMrpUzwTKlIu5QleRuxu9AFsAJjfz/prj7XcjELqI2fBlxLb4ExjhTMom+ZBHD1CkgbEthbAT3AfXv6NHw23W1mwAAHbfNF3c4Uk0bhXdlqq4Ff2gS0eG2405f6dvsFopWSpWUFHxtwSZli0qpcJDYZJ6yEjrcAZShO8WQ4IeOZayYwPOnuac85XZKAg5JpxJYNnGG4Bd1DQLXbs3O5pv0wIulw1VSAovgYxnUkG5nJ5sTBk0W+j0wh/UJ92IwRSUB8wF7XRenQDx4C97A0+RK274pSF84Jb1MrDuyaQWWiH4AqCIt9IhYyibHlAgMBAAGjggJKMIICRjAOBgNVHQ8BAf8EBAMCBaAwFwYDVR0gBBAwDjAMBgpghkgBZQMCAQMIMIHLBggrBgEFBQcBAQSBvjCBuzBSBggrBgEFBQcwAoZGaHR0cDovL2hoc3BraWNybC5tYW5hZ2VkLmVudHJ1c3QuY29tL0FJQS9DZXJ0c0lzc3VlZFRvSEhTRW50cnVzdENBLnA3YzAgBggrBgEFBQcwAYYUaHR0cDovL29jc3AuZGhocy5nb3YwQwYIKwYBBQUHMAGGN2h0dHA6Ly9oaHNwa2lvY3NwLm1hbmFnZWQuZW50cnVzdC5jb20vT0NTUC9ISFNFbnRydXN0Q0EwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMIHtBgNVHR8EgeUwgeIwQKA+oDyGOmh0dHA6Ly9oaHNwa2ljcmwubWFuYWdlZC5lbnRydXN0LmNvbS9DUkxzL0hIU0VudHJ1c3RDQS5jcmwwgZ2ggZqggZekgZQwgZExCzAJBgNVBAYTAlVTMRgwFgYDVQQKEw9VLlMuIEdvdmVybm1lbnQxDDAKBgNVBAsTA0hIUzEiMCAGA1UECxMZQ2VydGlmaWNhdGlvbiBBdXRob3JpdGllczEkMCIGA1UEAxMbSEhTLUZQS0ktSW50ZXJtZWRpYXRlLUNBLUUxMRAwDgYDVQQDEwdDUkwxNTkyMB8GA1UdIwQYMBaAFE3VqiaeDki+5UYs+OEAdAj69kNEMB0GA1UdDgQWBBRQDIY/6moYDgNLVrDCcco2bUDTnjANBgkqhkiG9w0BAQsFAAOCAQEAX276THBNRlxEv6pK0XUZgJop3eWj9peRGUG1ATPkhqfTZ22vSMBtCTXcprGWsBBlHTVHsVdgqvV5gl8DPkM8kto3sGabvh1nVi4pZR1fzXJGwu6NmT8dis4LBj0rX7J18/Qooh7jQIpmhLCNmJKGr+dNx0NWrtpI/oYUHS5Eqdlu6RjYPrOZQS7Dz4+EcXdD/7Z54DSzt47vRud8dfIKM0sKkqd+jOkci0hIL7tbgzct5mcrUUmWP6hfQcMdbPyxfJQ7Al6rdcCx8YPLq4PWTcHbfH2C8Ro8VeUnetKweqjhtfNHu1jfPe5axo6/XuNAD4wEZTnwImZ6nV9wGkW/Qg==</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </ds:Signature>
+    <saml2:Subject>
+      <saml2:NameID Format="urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified" NameQualifier="">ffm</saml2:NameID>
+      <saml2:SubjectConfirmation Method="urn:oasis:names:tc:SAML:2.0:cm:bearer">
+        <saml2:SubjectConfirmationData NotOnOrAfter="2017-03-02T12:06:13.844Z" Recipient="http://localhost:56473/ApplicationForm/FFmRedirect" />
+      </saml2:SubjectConfirmation>
+    </saml2:Subject>
+    <saml2:Conditions NotBefore="2017-03-02T12:00:13.843Z" NotOnOrAfter="2017-03-02T12:03:13.843Z">
+      <saml2:AudienceRestriction>
+        <saml2:Audience>46944</saml2:Audience>
+      </saml2:AudienceRestriction>
+    </saml2:Conditions>
+    <saml2:AttributeStatement>
+      <saml2:Attribute Name="Payment Transaction ID" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue>12345</saml2:AttributeValue>
+      </saml2:Attribute>
+      <saml2:Attribute Name="Market Indicator" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue>Individual</saml2:AttributeValue>
+      </saml2:Attribute>
+      <saml2:Attribute Name="Assigned QHP Identifier" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue>46944AL0587205</saml2:AttributeValue>
+      </saml2:Attribute>
+      <saml2:Attribute Name="Total Amount Owned" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue>99.9999</saml2:AttributeValue>
+      </saml2:Attribute>
+      <saml2:Attribute Name="Premium Amount Total" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue />
+      </saml2:Attribute>
+      <saml2:Attribute Name="APTC Amount" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue />
+      </saml2:Attribute>
+      <saml2:Attribute Name="Proposed Coverage Effective Date" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue>03/02/2017</saml2:AttributeValue>
+      </saml2:Attribute>
+      <saml2:Attribute Name="First Name" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue>TestJoe</saml2:AttributeValue>
+      </saml2:Attribute>
+      <saml2:Attribute Name="Middle Name" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue />
+      </saml2:Attribute>
+      <saml2:Attribute Name="Last Name" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue>JohnTesting</saml2:AttributeValue>
+      </saml2:Attribute>
+      <saml2:Attribute Name="Suffix Name" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue />
+      </saml2:Attribute>
+      <saml2:Attribute Name="Partner Assigned Consumer ID" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue />
+      </saml2:Attribute>
+      <saml2:Attribute Name="TIN Identification" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue />
+      </saml2:Attribute>
+      <saml2:Attribute Name="Street Name 1" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue>123 Whatever</saml2:AttributeValue>
+      </saml2:Attribute>
+      <saml2:Attribute Name="Street Name 2" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue />
+      </saml2:Attribute>
+      <saml2:Attribute Name="State" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue>VA</saml2:AttributeValue>
+      </saml2:Attribute>
+      <saml2:Attribute Name="Zip Code" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue>20170</saml2:AttributeValue>
+      </saml2:Attribute>
+      <saml2:Attribute Name="Contact Email Address" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue />
+      </saml2:Attribute>
+      <saml2:Attribute Name="Subscriber Identifier" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue />
+      </saml2:Attribute>
+      <saml2:Attribute Name="Additional Information" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue />
+      </saml2:Attribute>
+      <saml2:Attribute Name="City Name" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:unspecified">
+        <saml2:AttributeValue>Herndon</saml2:AttributeValue>
+      </saml2:Attribute>
+    </saml2:AttributeStatement>
+    <saml2:AuthnStatement AuthnInstant="2017-03-02T12:01:13.843Z">
+      <saml2:SubjectLocality Address="10.153.197.51" />
+      <saml2:AuthnContext>
+        <saml2:AuthnContextClassRef>urn:oasis:names:tc:SAML:2.0:ac:classes:Password</saml2:AuthnContextClassRef>
+      </saml2:AuthnContext>
+    </saml2:AuthnStatement>
+  </saml2:Assertion>
+</samlp2:Response>

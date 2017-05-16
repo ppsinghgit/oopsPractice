@@ -1,0 +1,6 @@
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.Handling\bin\Debug\Error.Handling.exe.config
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.Handling\bin\Debug\Error.Handling.exe
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.Handling\bin\Debug\Error.Handling.pdb
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.Handling\obj\Debug\Error.Handling.csprojResolveAssemblyReference.cache
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.Handling\obj\Debug\Error.Handling.exe
+C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.Handling\obj\Debug\Error.Handling.pdb

@@ -1,0 +1,12 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope">
+  <s:Header xmlns:s="http://www.w3.org/2003/05/soap-envelope" />
+  <soap:Body>
+    <exch:Response xmlns:exch="http://applicant-eligibility.ee.ffe.cms.gov/exchange/1.0">
+   <ext:ResponseMetadata xmlns:ext="http://applicant-eligibility.ee.ffe.cms.gov/extension/1.0">
+      <hix-core:ResponseDescriptionText xmlns:hix-core="http://hix.cms.gov/0.1/hix-core">Unexpected System Exception</hix-core:ResponseDescriptionText>
+      <hix-core:ResponseCode xmlns:hix-core="http://hix.cms.gov/0.1/hix-core">HX009000</hix-core:ResponseCode>
+      <hix-core:TDSResponseDescriptionText xmlns:hix-core="http://hix.cms.gov/0.1/hix-core">Insurance Application Id not found for given Exchange Assigned Consumer Identification(FFEAssignedConsumerID:138516958,PartnerID:04.KGL.LA*.225.950,State:AK)</hix-core:TDSResponseDescriptionText>
+   </ext:ResponseMetadata>
+</exch:Response>
+  </soap:Body>
+</soap:Envelope>
