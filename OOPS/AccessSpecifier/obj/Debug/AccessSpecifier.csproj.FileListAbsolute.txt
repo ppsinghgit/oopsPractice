@@ -1,1 +1,9 @@
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\AccessSpecifier\bin\Debug\AccessSpecifier.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\AccessSpecifier\bin\Debug\AccessSpecifier.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\AccessSpecifier\bin\Debug\AccessSpecifier.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\AccessSpecifier\bin\Debug\AccessSpecifier.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\AccessSpecifier\bin\Debug\Lib1.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\AccessSpecifier\bin\Debug\Lib1.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\AccessSpecifier\obj\Debug\AccessSpecifier.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\AccessSpecifier\obj\Debug\AccessSpecifier.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\AccessSpecifier\obj\Debug\AccessSpecifier.pdb

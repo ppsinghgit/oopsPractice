@@ -24,3 +24,29 @@ C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Angular\bin\Sy
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Angular\obj\Debug\Angular.csprojResolveAssemblyReference.cache
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Angular\obj\Debug\Angular.dll
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Angular\obj\Debug\Angular.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\Angular.dll.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\Angular.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\Angular.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\Newtonsoft.Json.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Net.Http.Formatting.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Helpers.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Http.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Http.WebHost.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Mvc.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Razor.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Webpages.Deployment.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Webpages.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Webpages.Razor.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Razor.xml
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Webpages.xml
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Webpages.Deployment.xml
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Webpages.Razor.xml
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Helpers.xml
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Mvc.xml
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\Newtonsoft.Json.xml
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Net.Http.Formatting.xml
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Http.xml
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\bin\System.Web.Http.WebHost.xml
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\obj\Debug\Angular.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\obj\Debug\Angular.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Angular\obj\Debug\Angular.pdb

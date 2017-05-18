@@ -1,1 +1,7 @@
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\fabc\bin\Debug\fabc.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\fabc\bin\Debug\fabc.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\fabc\bin\Debug\fabc.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\fabc\bin\Debug\fabc.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\fabc\obj\Debug\fabc.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\fabc\obj\Debug\fabc.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\fabc\obj\Debug\fabc.pdb

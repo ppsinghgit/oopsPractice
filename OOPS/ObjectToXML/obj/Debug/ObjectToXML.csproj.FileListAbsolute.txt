@@ -1,1 +1,7 @@
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\ObjectToXML\bin\Debug\ObjectToXML.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\ObjectToXML\bin\Debug\ObjectToXML.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\ObjectToXML\bin\Debug\ObjectToXML.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\ObjectToXML\bin\Debug\ObjectToXML.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\ObjectToXML\obj\Debug\ObjectToXML.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\ObjectToXML\obj\Debug\ObjectToXML.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\ObjectToXML\obj\Debug\ObjectToXML.pdb

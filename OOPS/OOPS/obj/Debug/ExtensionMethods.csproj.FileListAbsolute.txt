@@ -1,1 +1,6 @@
 D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\OOPS\bin\Debug\OOPS.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\OOPS\bin\Debug\OOPS.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\OOPS\bin\Debug\OOPS.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\OOPS\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\OOPS\obj\Debug\OOPS.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\OOPS\obj\Debug\OOPS.pdb

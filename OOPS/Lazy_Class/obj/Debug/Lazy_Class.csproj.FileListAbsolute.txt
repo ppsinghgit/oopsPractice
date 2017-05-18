@@ -4,3 +4,9 @@ C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Lazy_Class\bin
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Lazy_Class\obj\Debug\Lazy_Class.csprojResolveAssemblyReference.cache
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Lazy_Class\obj\Debug\Lazy_Class.exe
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Lazy_Class\obj\Debug\Lazy_Class.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Lazy_Class\bin\Debug\Lazy_Class.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Lazy_Class\bin\Debug\Lazy_Class.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Lazy_Class\bin\Debug\Lazy_Class.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Lazy_Class\obj\Debug\Lazy_Class.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Lazy_Class\obj\Debug\Lazy_Class.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Lazy_Class\obj\Debug\Lazy_Class.pdb

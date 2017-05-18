@@ -8,3 +8,13 @@ C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\ob
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\obj\Debug\SodaApiTest.pdb
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\bin\Debug\Newtonsoft.Json.dll
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\SodaApiTest\bin\Debug\Newtonsoft.Json.xml
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\SodaApiTest\bin\Debug\SodaApiTest.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\SodaApiTest\bin\Debug\SodaApiTest.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\SodaApiTest\bin\Debug\SodaApiTest.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\SodaApiTest\bin\Debug\Newtonsoft.Json.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\SodaApiTest\bin\Debug\RestSharp.dll
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\SodaApiTest\bin\Debug\Newtonsoft.Json.xml
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\SodaApiTest\bin\Debug\RestSharp.xml
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\SodaApiTest\obj\Debug\SodaApiTest.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\SodaApiTest\obj\Debug\SodaApiTest.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\SodaApiTest\obj\Debug\SodaApiTest.pdb

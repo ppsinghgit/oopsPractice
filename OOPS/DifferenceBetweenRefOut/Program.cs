@@ -18,11 +18,11 @@ namespace DifferenceBetweenRefOut
 
         }
 
-        static void Sum(out int val)
-        {
-            // method will show you compile time error
-            // because out variable value must be assign once
-            int k = 10;
-        }
+        //static void Sum(out int val)
+        //{
+        //    // method will show you compile time error
+        //    // because out variable value must be assign once
+        //    int k = 10;
+        //}
     }
 }

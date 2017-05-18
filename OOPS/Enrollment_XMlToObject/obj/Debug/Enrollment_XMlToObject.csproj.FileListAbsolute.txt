@@ -4,3 +4,9 @@ C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Enrollment_XMl
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Enrollment_XMlToObject\obj\Debug\Enrollment_XMlToObject.csprojResolveAssemblyReference.cache
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Enrollment_XMlToObject\obj\Debug\Enrollment_XMlToObject.exe
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Enrollment_XMlToObject\obj\Debug\Enrollment_XMlToObject.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Enrollment_XMlToObject\bin\Debug\Enrollment_XMlToObject.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Enrollment_XMlToObject\bin\Debug\Enrollment_XMlToObject.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Enrollment_XMlToObject\bin\Debug\Enrollment_XMlToObject.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Enrollment_XMlToObject\obj\Debug\Enrollment_XMlToObject.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Enrollment_XMlToObject\obj\Debug\Enrollment_XMlToObject.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Enrollment_XMlToObject\obj\Debug\Enrollment_XMlToObject.pdb

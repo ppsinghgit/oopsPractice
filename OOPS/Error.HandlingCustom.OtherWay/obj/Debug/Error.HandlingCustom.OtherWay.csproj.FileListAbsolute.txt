@@ -4,3 +4,9 @@ C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.Handling
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.HandlingCustom.OtherWay\obj\Debug\Error.HandlingCustom.OtherWay.csprojResolveAssemblyReference.cache
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.HandlingCustom.OtherWay\obj\Debug\Error.HandlingCustom.OtherWay.exe
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.HandlingCustom.OtherWay\obj\Debug\Error.HandlingCustom.OtherWay.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Error.HandlingCustom.OtherWay\bin\Debug\Error.HandlingCustom.OtherWay.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Error.HandlingCustom.OtherWay\bin\Debug\Error.HandlingCustom.OtherWay.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Error.HandlingCustom.OtherWay\bin\Debug\Error.HandlingCustom.OtherWay.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Error.HandlingCustom.OtherWay\obj\Debug\Error.HandlingCustom.OtherWay.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Error.HandlingCustom.OtherWay\obj\Debug\Error.HandlingCustom.OtherWay.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Error.HandlingCustom.OtherWay\obj\Debug\Error.HandlingCustom.OtherWay.pdb

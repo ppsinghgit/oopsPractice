@@ -1,1 +1,6 @@
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\NamespaceAliasIssue\bin\Debug\NamespaceAliasIssue.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\NamespaceAliasIssue\bin\Debug\NamespaceAliasIssue.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\NamespaceAliasIssue\bin\Debug\NamespaceAliasIssue.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\NamespaceAliasIssue\bin\Debug\NamespaceAliasIssue.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\NamespaceAliasIssue\obj\Debug\NamespaceAliasIssue.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\NamespaceAliasIssue\obj\Debug\NamespaceAliasIssue.pdb

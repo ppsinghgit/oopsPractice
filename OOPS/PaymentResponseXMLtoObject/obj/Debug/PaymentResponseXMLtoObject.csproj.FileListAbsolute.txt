@@ -4,3 +4,9 @@ C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\PaymentRespons
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\PaymentResponseXMLtoObject\obj\Debug\PaymentResponseXMLtoObject.csprojResolveAssemblyReference.cache
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\PaymentResponseXMLtoObject\obj\Debug\PaymentResponseXMLtoObject.exe
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\PaymentResponseXMLtoObject\obj\Debug\PaymentResponseXMLtoObject.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\PaymentResponseXMLtoObject\bin\Debug\PaymentResponseXMLtoObject.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\PaymentResponseXMLtoObject\bin\Debug\PaymentResponseXMLtoObject.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\PaymentResponseXMLtoObject\bin\Debug\PaymentResponseXMLtoObject.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\PaymentResponseXMLtoObject\obj\Debug\PaymentResponseXMLtoObject.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\PaymentResponseXMLtoObject\obj\Debug\PaymentResponseXMLtoObject.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\PaymentResponseXMLtoObject\obj\Debug\PaymentResponseXMLtoObject.pdb

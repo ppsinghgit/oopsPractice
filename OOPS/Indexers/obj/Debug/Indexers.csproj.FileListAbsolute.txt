@@ -4,3 +4,9 @@ C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Indexers\bin\D
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Indexers\obj\Debug\Indexers.csprojResolveAssemblyReference.cache
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Indexers\obj\Debug\Indexers.exe
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Indexers\obj\Debug\Indexers.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Indexers\bin\Debug\Indexers.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Indexers\bin\Debug\Indexers.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Indexers\bin\Debug\Indexers.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Indexers\obj\Debug\Indexers.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Indexers\obj\Debug\Indexers.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Indexers\obj\Debug\Indexers.pdb

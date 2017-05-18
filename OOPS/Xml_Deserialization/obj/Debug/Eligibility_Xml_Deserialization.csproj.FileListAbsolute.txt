@@ -4,3 +4,9 @@ C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Xml_Deserializ
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Xml_Deserialization\obj\Debug\Xml_Deserialization.exe
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Xml_Deserialization\obj\Debug\Xml_Deserialization.pdb
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Xml_Deserialization\obj\Debug\Eligibility_Xml_Deserialization.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Xml_Deserialization\bin\Debug\Xml_Deserialization.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Xml_Deserialization\bin\Debug\Xml_Deserialization.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Xml_Deserialization\bin\Debug\Xml_Deserialization.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Xml_Deserialization\obj\Debug\Eligibility_Xml_Deserialization.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Xml_Deserialization\obj\Debug\Xml_Deserialization.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Xml_Deserialization\obj\Debug\Xml_Deserialization.pdb

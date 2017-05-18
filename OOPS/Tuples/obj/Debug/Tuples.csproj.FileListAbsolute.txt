@@ -4,3 +4,9 @@ C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Tuples\bin\Deb
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Tuples\obj\Debug\Tuples.exe
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Tuples\obj\Debug\Tuples.pdb
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Tuples\obj\Debug\Tuples.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Tuples\bin\Debug\Tuples.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Tuples\bin\Debug\Tuples.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Tuples\bin\Debug\Tuples.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Tuples\obj\Debug\Tuples.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Tuples\obj\Debug\Tuples.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Tuples\obj\Debug\Tuples.pdb

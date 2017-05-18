@@ -4,3 +4,9 @@ C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\ExceptionSimpl
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\ExceptionSimpleSamle\obj\Debug\ExceptionSimpleSamle.csprojResolveAssemblyReference.cache
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\ExceptionSimpleSamle\obj\Debug\ExceptionSimpleSamle.exe
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\ExceptionSimpleSamle\obj\Debug\ExceptionSimpleSamle.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\ExceptionSimpleSamle\bin\Debug\ExceptionSimpleSamle.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\ExceptionSimpleSamle\bin\Debug\ExceptionSimpleSamle.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\ExceptionSimpleSamle\bin\Debug\ExceptionSimpleSamle.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\ExceptionSimpleSamle\obj\Debug\ExceptionSimpleSamle.csprojResolveAssemblyReference.cache
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\ExceptionSimpleSamle\obj\Debug\ExceptionSimpleSamle.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\ExceptionSimpleSamle\obj\Debug\ExceptionSimpleSamle.pdb

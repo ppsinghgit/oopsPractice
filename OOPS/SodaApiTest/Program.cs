@@ -16,20 +16,16 @@ namespace SodaApiTest
             WebClient webclient = new WebClient();
             //var data = webclient.DownloadString("https://data.healthcare.gov/resource/enx3-h2qp.json?$limit=50000&$offset=1000");
             var data = webclient.DownloadString("https://data.healthcare.gov/resource/enx3-h2qp.json?$limit=50");
-            var client = new RestClient("https://data.healthcare.gov/resource/enx3-h2qp.json");
+            var client = new RestClient("https://data.healthcare.gov/");
             // client.Authenticator = new HttpBasicAuthenticator(username, password);
 
-            var request = new RestRequest("resource/{id}", Method.GET);
+            var request = new RestRequest("resource/enx3-h2qp.json?$limit=10&$offset=10000000", Method.GET);
             //request.AddParameter("name", "value"); // adds to POST or URL querystring based on Method
             //request.AddUrlSegment("id", "123"); // replaces matching token in request.Resource
-
-
             // easily add HTTP Headers
-            request.AddHeader("header", "value");
-
+            //request.AddHeader("header", "value");
             // add files to upload (works with compatible verbs)
             // request.AddFile(path);
-
             // execute the request
             IRestResponse response = client.Execute(request);
             var content = response.Content; // raw content as string
@@ -54,7 +50,7 @@ namespace SodaApiTest
             // abort the request on demand
             // asyncHandle.Abort();
 
-            var result = (List<RootObject>)Newtonsoft.Json.JsonConvert.DeserializeObject(data, typeof(List<RootObject>));
+            var result = (List<RootObject>)Newtonsoft.Json.JsonConvert.DeserializeObject(content, typeof(List<RootObject>));
 
         }
     }

@@ -4,3 +4,9 @@ C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.Handling
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.Handling\obj\Debug\Error.Handling.csprojResolveAssemblyReference.cache
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.Handling\obj\Debug\Error.Handling.exe
 C:\Users\parminder.pal\Documents\Visual Studio 2013\Projects\OOPS\Error.Handling\obj\Debug\Error.Handling.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Error.Handling\bin\Debug\Error.Handling.exe.config
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Error.Handling\obj\Debug\Error.Handling.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Error.Handling\obj\Debug\Error.Handling.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Error.Handling\bin\Debug\Error.Handling.exe
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Error.Handling\bin\Debug\Error.Handling.pdb
+D:\Parminder\LEARN\git public project\OOPs Practice\oopsPractice\OOPS\Error.Handling\obj\Debug\Error.Handling.csprojResolveAssemblyReference.cache
