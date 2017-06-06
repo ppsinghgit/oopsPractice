@@ -6,6 +6,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft;
+using Newtonsoft.Json.Linq;
 
 namespace SodaApiTest
 {
@@ -14,12 +15,13 @@ namespace SodaApiTest
         static void Main(string[] args)
         {
             WebClient webclient = new WebClient();
-            //var data = webclient.DownloadString("https://data.healthcare.gov/resource/enx3-h2qp.json?$limit=50000&$offset=1000");
-            var data = webclient.DownloadString("https://data.healthcare.gov/resource/enx3-h2qp.json?$limit=50");
+            //var data = webclient.DownloadString("https://data.healthcare.gov/resource/enx3-h2qp.json?$limit=100&$offset=1000");
+            //var data = webclient.DownloadString("https://data.healthcare.gov/resource/enx3-h2qp.json?$limit=50");
             var client = new RestClient("https://data.healthcare.gov/");
             // client.Authenticator = new HttpBasicAuthenticator(username, password);
 
-            var request = new RestRequest("resource/enx3-h2qp.json?$limit=10&$offset=10000000", Method.GET);
+            var request = new RestRequest("resource/enx3-h2qp.json?$limit=10&$offset=100", Method.GET);
+            //var request = new RestRequest("resource/enx3-h2qp.json?$select=count(plan_id_standard_component)", Method.GET);
             //request.AddParameter("name", "value"); // adds to POST or URL querystring based on Method
             //request.AddUrlSegment("id", "123"); // replaces matching token in request.Resource
             // easily add HTTP Headers
@@ -50,8 +52,16 @@ namespace SodaApiTest
             // abort the request on demand
             // asyncHandle.Abort();
 
-            var result = (List<RootObject>)Newtonsoft.Json.JsonConvert.DeserializeObject(content, typeof(List<RootObject>));
-
+            dynamic result = Newtonsoft.Json.JsonConvert.DeserializeObject(content, typeof(object));
+            JArray array = JArray.Parse(content);
+            List<string> _keyNames = new List<string>();
+            foreach (JObject item in array.Children<JObject>())
+            {
+                foreach (JProperty prop in item.Properties())
+                {
+                    _keyNames.Add(prop.Name);
+                }
+            }
         }
     }
 }
